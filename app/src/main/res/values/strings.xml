@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MadLevel2Task2</string>
+    <string name="quiz_instructions">Quiz instructions.</string>
+    <string name="swipe_right_for_true_swipe_left_for_false">Swipe right for true, swipe left for false.</string>
+    <string name="a_val_and_var_are_the_same">A \'val\' and \'var\' are the same.</string>
+    <string name="mobile_application_development_grants_12_ects">Mobile Aplication Development grants 12 ECTS.</string>
+    <string name="a_unit_in_kotlin_corresponds_to_a_void_in_java">A Unit in Kotlin Corresponds to a void in Java.</string>
+    <string name="in_kotlin_when_replaces_the_switch_operator_in_java">In Kotlin \'when\' replaces the \'switch\' operator in Java.</string>
+    <string name="quiz_instruction">Quiz instruction</string>
+</resources>
